@@ -1,3 +1,1 @@
-# Virtual Assistant 
-
-This is a script to automate some tasks like searching wikipedia , youtube , playing music , searching queries on stackoverflow , opening various apps etc. by voice instructions.
+Want to make a virtual assistant like Alexa or Google Assistant. Currently limited to searching on fewer sites like goole, youtube, wikipedia, etc. It also wish me according to current time and can also send email on my request. Planning to extend it's functionalities to more...
